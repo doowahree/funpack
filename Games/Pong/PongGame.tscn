@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="PongGame" type="Node2D"]
+
+position = Vector2( 43, 41 )
+
+
